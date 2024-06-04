@@ -38,7 +38,6 @@ https://drive.google.com/drive/folders/1qixe-vhFxRZFcsnDXLx3AZOWTI6CYgoq?usp=sha
 9. **Model Conversion to TFLite:**
    - The trained and saved model is converted to the TFLite format for portability purposes.
 
-[!TIP]
 ## How to Use
 1. Download or clone this repository.
 2. Ensure all necessary libraries and dependencies are installed.
@@ -46,9 +45,9 @@ https://drive.google.com/drive/folders/1qixe-vhFxRZFcsnDXLx3AZOWTI6CYgoq?usp=sha
 4. For model testing, use waste images for identification.
 
 ## Contributors
-Nabila Salvaningtyas @sistina02
+Nabila Salvaningtyas [@sistina02](https://github.com/sistina02)
 
-Chaesa Adella Rahma @chaesadella
+Chaesa Adella Rahma [@chaesadella](https://github.com/chaesadella)
 
 ---
 
